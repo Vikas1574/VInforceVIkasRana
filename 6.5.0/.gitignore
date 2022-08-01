@@ -1,0 +1,9 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# IDEs and editors
+.vs/
+obj/
+bin/
+aspnet-core/src/VineforceVikas.Web.Host/App_Data/Logs/
+aspnet-core/src/VineforceVikas.Web.Mvc/App_Data/Logs/
+aspnet-core/src/VineforceVikas.Migrator/Logs/Logs.txt
